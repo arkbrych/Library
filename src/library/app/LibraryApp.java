@@ -1,5 +1,9 @@
 package library.app;
 
+/**
+ * @author Arkadiusz Brych
+ * Program made during javastart.pl course
+ */
 public class LibraryApp {
     private static final String APP_NAME = "Biblioteka v1.2";
 
